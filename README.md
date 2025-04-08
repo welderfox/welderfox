@@ -1,4 +1,4 @@
-<h5 align="left">Olá, sou Welder! Trabalho como desenvolvedor e tenho um grande interesse por tecnologia, sempre buscando novas maneiras de aprender e crescer na área. Além do mundo da tecnologia, também tenho paixão por videogames, onde posso relaxar e explorar novas realidades.<br><br>Sou uma pessoa que valoriza o aprendizado contínuo e está sempre em busca de conhecimento em áreas diversas. Nos momentos de lazer, gosto de estar em contato com a natureza, seja pescando ou fazendo trilhas ou praticando tiro recriativo.</h5>
+<h5 align="left">Olá, sou Welder! Trabalho como desenvolvedor e tenho um grande interesse por tecnologia, sempre buscando novas maneiras de aprender e crescer na área. Além do mundo da tecnologia, também tenho paixão por videogames, onde posso relaxar e explorar novas realidades.<br><br>Sou uma pessoa que valoriza o aprendizado contínuo e está sempre em busca de conhecimento em áreas diversas. Nos momentos de lazer, gosto de estar em contato com a natureza, seja pescando ou fazendo trilhas.</h5>
 
 ###
 
@@ -25,6 +25,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="25" alt="oracle logo"  />
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="25" alt="java logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" height="40" alt="spring logo"  />
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="25" alt="mongodb logo"  />
   <img width="10" />
